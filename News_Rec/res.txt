@@ -1,0 +1,15 @@
+LDA_MF
+mPrecision: 0.00565  mAP: 0.00251215 k=10 pointwise
+mPrecision: 0.0043553  mAP: 0.0018078 k=10 pairwise
+mPrecision: 0.00458  mAP: 0.00214649 k=20 pointwise
+mPrecision: 0.0044218  mAP: 0.0017314 k=20 pairwise
+mPrecision: 0.00452722  mAP: 0.00212708 k=40 pointwise
+mPrecision: 0.0043553  mAP: 0.00162418 k=40 pairwise
+NMF
+mPrecision: 0.00544413  mAP: 0.00442885 k=5
+mPrecision: 0.0065043  mAP: 0.00708327 k=20
+mPrecision: 0.00610315  mAP: 0.00533854 k =40
+UserCF
+mPrecision: 0.00310315  mAP: 0.00233854 k=20
+ItemCB
+mPrecision: 0.00424231  mAP: 0.00353982 k=20

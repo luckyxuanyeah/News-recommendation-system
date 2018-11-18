@@ -1,0 +1,5 @@
+movelens 100k
+NMF k=5
+mPrecision: 0.30138  mAP: 0.0960623  nDCG: 0.231943
+UserCF k=5
+mPrecision: 0.0596603  mAP: 0.0162031  nDCG: 0.0361825
